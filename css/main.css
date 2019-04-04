@@ -1,19 +1,19 @@
-body,html
-{
+body,
+html {
     height: 100%;
     width: 100%;
     margin: 0%;
 }
-.header
-{
+
+.header {
     width: 100%;
     height: 100%;
     background-color: #c989f5;
     position: relative;
 
 }
-.logo
-{
+
+.logo {
     width: 50px;
     height: 50px;
     background-color: aqua;
@@ -22,18 +22,18 @@ body,html
     position: relative;
 
 }
-.menu
-{
+
+.menu {
     width: 20px;
     height: 20px;
     background-color: azure;
     top: 10px;
     right: 10px;
     position: absolute;
-    
+
 }
-.title-cont
-{
+
+.title-cont {
     width: 25%;
     height: 300px;
     top: 0;
@@ -43,83 +43,178 @@ body,html
     margin: auto;
     position: absolute;
 }
-.test
-{
-   padding: 25px;
+
+.test {
+    padding: 25px;
 }
-.about-cont
-{
+
+.about-cont {
     width: 100%;
     background-color: #24bbe9;
     overflow: auto;
 }
-.tech
-{
+
+.tech {
     float: right;
     width: 75%;
     background-color: white;
 }
-.text
-{
-    display: inline-block;
+
+.text {
+    float: left;
 }
-.we
-{
+
+.we {
     width: 80%;
     overflow: auto;
     margin: auto;
-    
+
 }
-.market
-{
+
+.market {
     width: 50%;
     float: left;
     margin: 40px;
 }
-.logosu
-{
+
+.logosu {
     width: 30%;
     float: left;
     margin: 35px;
 }
-.our
-{
-   width: 80%;
-    margin: auto;
-    overflow: auto;
-}
-.philo
-{
-    width: 30%;
-    float: left;
-    text-align: center;
-}
-.goal
-{
+
+.our {
     width: 80%;
     margin: auto;
     overflow: auto;
 }
-.watch
-{
+
+.philo {
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.goal {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.watch {
     float: left;
 }
-.perfection
-{
+
+.perfection {
     float: left;
     width: 40%;
     padding: 50px 0px;
 
 }
-.up
-{
+
+.up {
     width: 5%;
-    height: 50px;
+    height: 30px;
     position: fixed;
     right: 20px;
     bottom: 20px;
     background-color: black;
 }
 
+.process-cont {
+    width: 100%;
+    background-color: orchid;
+    overflow: auto;
+}
 
+.text1 {
+    float: right;
+}
+
+.how {
+
+    float: left;
+    width: 75%;
+    background-color: white;
+}
+
+.lap-cont {
+    width: 100%;
+    overflow: auto;
+}
+
+.laptop {
+
+    float: left;
+
+}
+
+.content {
+    width: 40%;
+    float: left;
+    padding: 60px 0px;
+}
+
+.event {
+    width: 80%;
+    overflow: auto;
+    margin: auto;
+}
+
+.dis {
+    width: 50%;
+    float: left;
+    padding: 60px 0px;
+}
+
+.ana {
+    float: right;
+}
+.ser-cont
+{
+    width: 100%;
+    background-color: #fd7924;
+    overflow: auto;
+}
+.service
+{
+    width: 25%;
+    float: left;
+
+}
+.sit
+{
+    width: 75%;
+    float: left;
+    background-color: white;
+}
+.amet
+{
+    width: 65%;
+    margin: auto;
+}
+.galary
+{
+    width: 65%;
+    margin: auto;
+    overflow: auto;
+}
+.con
+{
+    width: 25%;
+    float: left;
+    margin: 25px;
+
+}
+.graphics
+{
+    width: 40%;
+    height: 50px;
+    margin: auto;
+    background-color: khaki;
+}
+*
+{
+    box-sizing: border-box;
+}
 
