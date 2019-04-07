@@ -15,8 +15,6 @@ html {
 
 .logo {
     width: 50px;
-    height: 50px;
-    background-color: aqua;
     left: 10px;
     top: 10px;
     position: relative;
@@ -170,51 +168,204 @@ html {
 .ana {
     float: right;
 }
-.ser-cont
-{
+
+.ser-cont {
     width: 100%;
     background-color: #fd7924;
     overflow: auto;
 }
-.service
-{
+
+.service {
     width: 25%;
     float: left;
 
 }
-.sit
-{
+
+.sit {
     width: 75%;
     float: left;
     background-color: white;
 }
-.amet
-{
+
+.amet {
     width: 65%;
     margin: auto;
 }
-.galary
-{
+
+.galary {
     width: 65%;
     margin: auto;
     overflow: auto;
 }
-.con
-{
+
+.con {
     width: 25%;
     float: left;
     margin: 25px;
 
 }
-.graphics
-{
+
+.graphics {
     width: 40%;
     height: 50px;
     margin: auto;
     background-color: khaki;
 }
-*
-{
+
+* {
     box-sizing: border-box;
 }
 
+.work-cont {
+    width: 100%;
+    background-color: #a742c6;
+    overflow: auto;
+}
+
+.work {
+    width: 75%;
+    float: left;
+    background-color: white;
+    overflow: auto;
+
+}
+
+.ali {
+
+    width: 60%;
+    margin: auto;
+}
+
+.gal {
+    margin: auto;
+    width: 80%;
+    overflow: auto;
+    padding: 30px 0px;
+}
+
+.lab {
+    width: 50%;
+    float: left;
+
+}
+
+.caxi {
+    width: 50%;
+    float: left;
+}
+
+.help {
+    width: 80%;
+    margin: auto;
+}
+
+.pic {
+    margin: auto;
+    width: 80%;
+}
+
+.picture {
+    width: 50%;
+    float: left;
+}
+
+.for {
+    width: 40%;
+}
+
+.parking {
+    width: 40%;
+}
+
+.ride {
+    width: 50%;
+    float: left;
+
+}
+.turip
+{
+    width: 100%;
+    background-color: aqua;
+}
+.sed
+{
+    width: 50%;
+    margin: auto;
+}
+.nem
+{
+    width: 90%;
+    margin: auto;
+    padding: 40px 0px;
+    
+}
+.ne
+{
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+.name
+{
+    width: 50%;
+    float: left;
+    background-color: lightgray;
+}
+.mess
+{
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    background-color: lightcyan;
+    top: 10px;
+    position: relative;
+}
+.stay
+{
+    width: 80%;
+    margin: auto;
+    background-color: blue;
+}
+.write
+{
+    width: 40%;
+    margin: auto;
+}
+.footer
+{
+    width: 100%;
+    background-color: lightgray;
+    overflow: auto;
+}
+.suk
+{
+    float: left;
+    margin: auto;
+    width: 33.33%;
+    text-align: center;
+    padding: 30px 0px;
+}
+.copyright
+{
+   float: left;
+    margin: auto;
+    width: 33.33%;
+    padding:40px 0px; 
+}
+.icon
+{
+    width: 33.33%;
+    overflow: auto;
+    padding: 20px 0px;
+    
+}
+.fb
+{
+   float: left;
+    padding: 10px;
+}
+.you
+{
+    float: left;
+    padding: 10px;
+}
